@@ -1,1 +1,6 @@
+
 Hello - here are some changes.  123
+
+Stash this change.
+
+Another 3rd line.
